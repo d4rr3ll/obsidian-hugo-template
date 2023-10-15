@@ -38,6 +38,10 @@ bin/obsidian-export: bin
 	exec $(CURL) https://github.com/zoni/obsidian-export/releases/download/v22.11.0/obsidian-export_$(OE_ARCH).bin -o $@
 	chmod a+x bin/obsidian-export
 
+themes/bilberry-hugo-theme/v4/README.md:
+	@git submodule init
+	@git submodule update
+
 # ----------------------------------
 # Phoney targets
 
@@ -47,7 +51,7 @@ clean-content:
 	@test -d content || mkdir content
 	@rm -Rf content/*
 
-obsidian-export: layouts bin/obsidian-export clean-content bin/obsidian-export
+obsidian-export: layouts bin/obsidian-export clean-content bin/obsidian-export themes/bilberry-hugo-theme/v4/README.md
 	exec ./bin/obsidian-export ./vault ./content
 
 server: obsidian-export
