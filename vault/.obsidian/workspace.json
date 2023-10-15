@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "b5606076b14bdb12",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c36235043c77b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6d9ae94aec36d70",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "code/HowIBuiltTheBlog/HowIBuiltTheBlog-Workflow.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24f29bda117bb8da",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd20914b1da71ef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c7408260274f7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "844abe3f7ca909e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"author\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c2af6e18ce00a96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "right": {
+    "id": "2a8fd1ee53d67f33",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f830eabb06c4bc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b4b7af7c2d11db1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "code/HowIBuiltTheBlog/HowIBuiltTheBlog-Workflow.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f2f1020510d6233",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "code/HowIBuiltTheBlog/HowIBuiltTheBlog-Workflow.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afc01376a6bb0f5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49b0da7dba2710d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "code/HowIBuiltTheBlog/HowIBuiltTheBlog-Workflow.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3a2872c7e10aa149",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "code/HowIBuiltTheBlog/HowIBuiltTheBlog-Workflow.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b6d9ae94aec36d70",
+  "lastOpenFiles": [
+    "code/HowIBuiltTheBlog/index.md",
+    "code/HowIBuiltTheBlog.md",
+    "code/HowIBuiltTheBlog/HowIBuiltTheBlog.md",
+    "code/HowIBuiltTheBlog/HowIBuiltTheBlog-Workflow.excalidraw.png",
+    "code/HowIBuiltTheBlog/HowIBuiltTheBlog-Workflow.excalidraw.md",
+    "code/HowIBuiltTheBlog",
+    "code/untitled folder",
+    "code/HowIBuiltTheBlog-Workflow.excalidraw.md",
+    "code/HowIBuiltTheBlog-Workflow.excalidraw.png",
+    "Excalidraw/Drawing 2023-10-14 13.47.50.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-14 13.47.50.excalidraw.png",
+    "Excalidraw",
+    "article/welcome.md",
+    "code",
+    "article/dalle-experiments/index.md",
+    "status/status.tweaking-things.md",
+    "status/status.md",
+    "article/building_a_blog.article/index.md",
+    "article/building_a_blog.article",
+    "article/new/index.md",
+    "article/new",
+    "article/dalle-experiments/featuredImage.png",
+    "article/dalle-experiments",
+    "status"
+  ]
+}

@@ -1,0 +1,12 @@
+bin
+layouts
+public
+resources
+.hugo_build.lock
+*.pem
+node_modules
+package-lock.json
+package.json
+content
+**.DS_Store
+.ruby-version
